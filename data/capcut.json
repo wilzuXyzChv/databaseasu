@@ -1,4 +1,9 @@
 {
   "price": 10000,
-  "accounts": []
+  "accounts": [
+    {
+      "email": "ledianna@peakwaveway.com",
+      "password": "wolzu17363"
+    }
+  ]
 }
